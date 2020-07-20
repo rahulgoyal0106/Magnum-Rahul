@@ -1,0 +1,4 @@
+include ':picasso-2.71828-javadoc'
+include ':picasso-2.71828-sources'
+include ':app'
+rootProject.name = "MagnumRahul"
